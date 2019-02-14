@@ -4,6 +4,7 @@ body{
   background-size:cover;
   image-resolution:
 }
+/* navbar */
 .navbar{
   background-color: rgba(0,0,0,.5);
   border-color: rgba(0,0,0,.5);
@@ -11,13 +12,38 @@ body{
 .navbartitle{
   font-family: 'UnifrakturMaguntia', cursive;
   color: #fff;
-  /* font-size: 100%; */
 }
-.item {
+/* end of navbar */
+/* carousel */
+.carousel{
+  margin-bottom:60px;
+}
+.carousel-caption{
+  z-index: 10;
+  padding-bottom:60px;
+}
+.carousel-inner .item{
+  width:100%;
+  height:600px;
   background-size:cover;
-  background-color: rgba(0,0,0,0);
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 20%;
+  background-position:center;
 }
+.main_img1{
+  background-image: url('../img/hollowsquad.jpg');
+  background-size:cover;
+}
+.main_img2{
+  background-image: url('../img/satanimage.jpg');
+}
+.main_img3{
+  background-image:url('../img/vintagecollection.jpg');
+}
+.btn-primary{
+  color:#fff;
+  background-color:#000;
+  border-color:transparent;
+}
+.btn-primary:hover{
+  background-color:#d43426
+}
+/* end of carousel */
