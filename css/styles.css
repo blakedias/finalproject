@@ -1,0 +1,15 @@
+body{
+  background-color:rgba(0,0,0,.7);
+}
+.navbar{
+  background-color:rgba(0,0,0,.5);
+  border-color:rgba(0,0,0,.5);
+}
+.logo{
+  height:50px;
+  width:50px;
+}
+.jumbotron{
+  color:#fff;
+  background-color:rgba(0, 0, 0, 0.5);
+}
