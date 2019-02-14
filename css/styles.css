@@ -13,12 +13,6 @@ body{
   color: #fff;
   /* font-size: 100%; */
 }
-#myCarousel{
-  height: 100%;
-  position:relative;
-  top: 0px;
-  background-color: rgba(0, 0, 0, 0.5);
-}
 .item {
   background-size:cover;
   background-color: rgba(0,0,0,0);
