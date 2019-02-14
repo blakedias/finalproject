@@ -4,7 +4,6 @@ body{
   background-size:cover;
   image-resolution:
 }
-/* navbar */
 .navbar{
   background-color: rgba(0,0,0,.5);
   border-color: rgba(0,0,0,.5);
@@ -13,8 +12,6 @@ body{
   font-family: 'UnifrakturMaguntia', cursive;
   color: #fff;
 }
-/* end of navbar */
-/* carousel */
 .carousel{
   margin-bottom:60px;
 }
@@ -46,4 +43,14 @@ body{
 .btn-primary:hover{
   background-color:#d43426
 }
-/* end of carousel */
+.container{
+  width: 100%;
+  padding: 50px 50px 50px 550px;
+  color: #fff;
+  text-align: center;
+  border-color:#000;
+  background-color: rgba(0,0,0,.5);
+}
+.btn-xs{
+  color: #000;
+}
