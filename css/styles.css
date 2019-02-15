@@ -59,3 +59,10 @@ body{
 .btn-xs{
   color: #000;
 }
+/* about page */
+.jumbotron{
+  padding: 300px 50px 50px 100px;
+  background:cover;
+  color:#fff;
+  background-color:rgba(0, 0, 0, 0.5);
+}
