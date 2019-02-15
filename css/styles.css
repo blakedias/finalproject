@@ -59,10 +59,35 @@ body{
 .btn-xs{
   color: #000;
 }
+.col-sm-1{
+  font-family: 'UnifrakturMaguntia', cursive;
+  text-align:left;
+  color:#fff;
+  width:100%;
+}
+.col-sm-3{
+  padding-left: : 200px;
+}
+.footer{
+  position:absolute;
+}
+.centered{
+  width:100%;
+}
 /* about page */
 .jumbotron{
   padding: 300px 50px 50px 100px;
   background:cover;
   color:#fff;
   background-color:rgba(0, 0, 0, 0.5);
+}
+/* contact page */
+.steam{
+  z-index: 2;
+  padding-right: 0px;
+}
+.mail{
+  position: absolute;
+  z-index: 1;
+  padding: 0px 50px 50px 600px;
 }
