@@ -28,6 +28,7 @@ body{
   height:600px;
   background-size:cover;
   background-position:center;
+  text-align:center;
 }
 .main_img1{
   background-image: url('../img/hollowsquad.jpg');
@@ -45,7 +46,7 @@ body{
   border-color:transparent;
 }
 .btn-primary:hover{
-  background-color:#d43426
+  background-color:#rgba(0, 0, 0, 0.7);
 }
 .container{
   width: 100%;
