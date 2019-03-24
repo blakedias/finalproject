@@ -2,4 +2,4 @@
 
 **THIS REPOSITORY IS PURELY FOR NONCOMMERCIAL USE. ANY USE OF UNLISCENSED IMAGERY AND/OR CONTENT WITHIN THIS REPO WAS NOT INCLUDED WITH THE INTENT OF COMMERCIAL REUSE. THIS BEING SAID, DON'T SUE ME. THIS IS FOR A CLASS PROJECT.**
 
-This is a website I have designed for a friend using Bootstrap framework, and a few resources from FontAwesome.
+This is a website I have designed using Bootstrap framework, and a few resources from FontAwesome.
